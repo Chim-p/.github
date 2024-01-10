@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=Chim-p&color=green&style=for-the-badge)
 
 
-Tech space for seasoned software developer who are passionate about delivering high-quality, efficient and user-friendly solutions. With a long and rich experience in coding and software development, we ready to take on new challenges and contribute to the open-source community.
+Tech space for seasoned software developers who are passionate about delivering high-quality, efficient and user-friendly solutions. With a long and rich experience in coding and software development, we're ready to take on new challenges and contribute to the open-source community.
 
-We are always open to new opportunities and projects that challenge us to grow as a software developer.
+We are always open to new opportunities and projects that challenge us to grow as a software developers.
 
 
 
