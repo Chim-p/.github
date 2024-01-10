@@ -1,8 +1,16 @@
 {
   "hasSrc": false,
-  "packages": [],
+  "packages": [
+    "shadcn-ui",
+    "clerk"
+  ],
   "preferredPackageManager": "npm",
   "t3": false,
   "alias": "@",
-  "rootPath": ""
+  "rootPath": "",
+  "componentLib": "shadcn-ui",
+  "orm": null,
+  "driver": null,
+  "provider": null,
+  "auth": "clerk"
 }
